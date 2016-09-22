@@ -1,0 +1,5 @@
+path = request.getSesison().getServletContext().getRealpath("/WEB-INF/classes")+"/filename";
+
+实际调用过程中
+使用apace commons.io 包中的readLines方法 来返回一个 list集合，一行是一个list中的String
+
