@@ -1,0 +1,6 @@
+使用enum 实现单例模式
+enum {
+    INSTANCE;
+	
+
+}
